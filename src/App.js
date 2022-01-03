@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Continuos Integration/Continuos Deployment with GitHub Actions
         </a>
       </header>
     </div>
