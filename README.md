@@ -9,4 +9,5 @@
 7. seleccionar proyecto creado en el paso 1
 8. ejecutar: firebase deploy
 9. Agregar en el .gitignore : *.cache
+10. Obtener token de firebase para agreagrlo en secrets de github: firebase login:ci, en settings> secrets> new repository secret
    
